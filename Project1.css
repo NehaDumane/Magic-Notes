@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+.container {
+    width: 55vw;
+}
+
+h3 {
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'DM Serif Display', serif;
+}
+
+nav {
+    background-color: black;
+}
+.card-header {
+    background-color: black;
+    color: white;
+}
+
+.btn-col {
+    background-image: linear-gradient(to right, #171718 0%, #262729  51%, #1e2122  100%);
+    border: 1px solid black;
+}  
+
+.btn-col:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(2, 128, 2);
+}
+
+.btn-col:hover {
+    background-color: rgb(14, 136, 14);
+}
